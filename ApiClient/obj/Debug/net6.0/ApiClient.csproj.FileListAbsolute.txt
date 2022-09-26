@@ -1,0 +1,17 @@
+D:\Beetroot\Lesson3\Lesson24\ApiClient\bin\Debug\net6.0\ApiClient.exe
+D:\Beetroot\Lesson3\Lesson24\ApiClient\bin\Debug\net6.0\ApiClient.deps.json
+D:\Beetroot\Lesson3\Lesson24\ApiClient\bin\Debug\net6.0\ApiClient.runtimeconfig.json
+D:\Beetroot\Lesson3\Lesson24\ApiClient\bin\Debug\net6.0\ApiClient.dll
+D:\Beetroot\Lesson3\Lesson24\ApiClient\bin\Debug\net6.0\ApiClient.pdb
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\ApiClient.csproj.AssemblyReference.cache
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\ApiClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\ApiClient.AssemblyInfoInputs.cache
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\ApiClient.AssemblyInfo.cs
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\ApiClient.csproj.CoreCompileInputs.cache
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\ApiClient.dll
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\refint\ApiClient.dll
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\ApiClient.pdb
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\ApiClient.genruntimeconfig.cache
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\ref\ApiClient.dll
+D:\Beetroot\Lesson3\Lesson24\ApiClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Beetroot\Lesson3\Lesson24\ApiClient\obj\Debug\net6.0\ApiClient.csproj.CopyComplete

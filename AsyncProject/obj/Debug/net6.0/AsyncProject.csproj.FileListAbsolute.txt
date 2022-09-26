@@ -1,0 +1,15 @@
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\bin\Debug\net6.0\AsyncProject.exe
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\bin\Debug\net6.0\AsyncProject.deps.json
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\bin\Debug\net6.0\AsyncProject.runtimeconfig.json
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\bin\Debug\net6.0\AsyncProject.dll
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\bin\Debug\net6.0\AsyncProject.pdb
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\obj\Debug\net6.0\AsyncProject.csproj.AssemblyReference.cache
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\obj\Debug\net6.0\AsyncProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\obj\Debug\net6.0\AsyncProject.AssemblyInfoInputs.cache
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\obj\Debug\net6.0\AsyncProject.AssemblyInfo.cs
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\obj\Debug\net6.0\AsyncProject.csproj.CoreCompileInputs.cache
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\obj\Debug\net6.0\AsyncProject.dll
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\obj\Debug\net6.0\refint\AsyncProject.dll
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\obj\Debug\net6.0\AsyncProject.pdb
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\obj\Debug\net6.0\AsyncProject.genruntimeconfig.cache
+D:\Beetroot\Lesson3\Lesson24\AsyncProject\obj\Debug\net6.0\ref\AsyncProject.dll
